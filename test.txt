@@ -1,1 +1,4 @@
 This is a test.
+
+Checking if the git email address is correct when using
+svn.authorfile.
